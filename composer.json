@@ -1,0 +1,13 @@
+{
+    "name": "hf/opensearch",
+    "description": "heifan opensearch",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenjiangtao",
+            "email": "chenjiangtao@heifan.cn"
+        }
+    ],
+    "require": {}
+}
